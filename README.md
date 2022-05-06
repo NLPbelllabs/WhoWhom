@@ -7,7 +7,6 @@ Pre-trained transformer-based language models have achieved state-of-art perform
 3) Furthermore, it is found that the models tend to interpret subject as agent. In contrary, Chinese speakers' agent alignment is independent on subject position.
 
 
-Note: We conducted a human acceptability judgment experiment using a four-point-scale questionnaire to obtain human ratings for the sentences in each condition. 
-Participants are required to judge the sentences following this instruction: the fully acceptable sentences should be marked as 1; sentences including rather acceptable phrasings should be marked as 2; sentences including rather unacceptable phrasing should be marked as 3, and sentences including some fully unacceptable phrasing should be marked as 4. A larger score indicates a sentence is less acceptable.
+Note: We conducted a human acceptability judgment experiment using a four-point-scale questionnaire to obtain human ratings. Participants are required to judge the sentences following this instruction: the fully acceptable sentences should be marked as 1; sentences including rather acceptable phrasings should be marked as 2; sentences including rather unacceptable phrasing should be marked as 3, and sentences including some fully unacceptable phrasing should be marked as 4. A larger score indicates a sentence is less acceptable.
 
 Tested language models: Bert-base, ELECTRA-large, RoBERTa-base, ERNIE 1.0 and MacBERT-base/large
